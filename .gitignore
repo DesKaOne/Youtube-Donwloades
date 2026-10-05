@@ -180,7 +180,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-*.mp3
-*.webm
-failed.txt
-archive.txt
+/music
+*.txt
